@@ -64,7 +64,7 @@ The platform improves communication between customers, technicians, and administ
 
 * Submit service requests
 * Track request status
-* View request history
+  
 
 ### Technician
 
@@ -72,12 +72,6 @@ The platform improves communication between customers, technicians, and administ
 * Update task progress
 * Mark requests as completed
 
-### Administrator
-
-* Manage users
-* Assign technicians
-* Monitor system performance
-* Generate reports
 
 ---
 
@@ -94,6 +88,7 @@ The platform improves communication between customers, technicians, and administ
 
 * Node.js
 * Express.js
+* Zod validation
 
 ### Database
 
